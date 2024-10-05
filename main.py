@@ -49,9 +49,9 @@ def process_video(file_path, model, reader):
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    model = YOLO("train/license_plate_detection13/weights/best.pt")
+    model = YOLO("best.pt")
     reader = Reader(['en'], gpu=True)
-    file_path = "IMG_2180.mov"
+    file_path = "Videos/Video.mov"
     _, file_extension = os.path.splitext(file_path)
 
     if file_extension in ['.jpg', '.jpeg', '.png']:
