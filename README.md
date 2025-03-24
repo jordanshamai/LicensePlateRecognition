@@ -1,5 +1,5 @@
 # License Plate Detection & OCR System  
-**Built with YOLOv8 + PaddleOCR (formerly EasyOCR) — Fine-Tuned with Roboflow**
+**Built with YOLOv8 + PaddleOCR + OpenCV — Fine-Tuned with Roboflow**
 
 > An end-to-end system for detecting and recognizing license plates in real-world conditions using state-of-the-art computer vision and OCR.
 
