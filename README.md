@@ -62,7 +62,7 @@ This project combines **YOLOv8** for robust license plate detection with **Paddl
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourname/license-plate-ocr
+git clone https://github.com/jordanshamai/license-plate-ocr
 cd license-plate-ocr
 
 # Install dependencies
