@@ -59,18 +59,6 @@ This project combines **YOLOv8** for robust license plate detection with **Paddl
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/jordanshamai/license-plate-ocr
-cd license-plate-ocr
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run detection + OCR on an image
-python detect_and_ocr.py --source sample.jpg
-```
 ## Acknowledgments
 
 - Thanks to [Roboflow](https://roboflow.com/) for dataset hosting and augmentation tools  
